@@ -43,6 +43,8 @@ The goal of this repository is not just to finish a playlist, but to **understan
 - **Seaborn**
 - **Scikit-learn**
 - **Jupyter Notebook**
+- **Google Collab**
+- **VS Code**
 
 ---
 
