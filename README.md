@@ -9,7 +9,7 @@ I've completed **70 out of 100 days**, covering the core concepts of Machine Lea
 The goal of this repository is not just to finish a playlist, but to **understand, implement, and build with ML step by step.**
 
 ---
-
+ 
 ## 📊 Progress
 
 **70 / 100 Days Completed**
