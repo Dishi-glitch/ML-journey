@@ -1,4 +1,4 @@
-# 🚀 100 Days of Machine Learning — CampusX
+# 🚀 100 Days of Machine Learning — CampusX (in Progress)
  
 > **70 Days Completed | 100 Days of ML Journey** 
 
