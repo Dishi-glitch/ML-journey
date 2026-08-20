@@ -2,7 +2,7 @@
  
 > **70 Days Completed | 100 Days of ML Journey** 
 
-This repository documents my journey through the **100 Days of Machine Learning playlist by CampusX**.
+This repository documents my journey through the **100 Days of Machine Learning playlist by CampusX**. 
 
 I've completed **70 out of 100 days**, covering the core concepts of Machine Learning, from Python-based data analysis and EDA to preprocessing, feature engineering, and machine learning algorithms.
 
